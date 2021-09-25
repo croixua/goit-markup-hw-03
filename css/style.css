@@ -236,6 +236,9 @@ a:focus {
 
 /* ---------- WORK ---------- */
 
+.work.section {
+  padding-top: 0;
+}
 .work-title {
   margin-bottom: 50px;
 }
@@ -253,7 +256,6 @@ a:focus {
   background-color: var(--secondary-background-color);
 }
 .command-title {
-  padding-top: 0;
   margin-bottom: 50px;
 }
 .command-list {
