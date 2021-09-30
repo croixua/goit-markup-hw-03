@@ -272,6 +272,9 @@ a:focus {
 }
 .command-subtitle {
   margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
 }
 .command-item {
   background-color: var(--third-background-color);
@@ -283,11 +286,6 @@ a:focus {
     0px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
-
-
-.command-text {
-  
-}
 
 /* ------------- FOOTER -------------- */
 .footer {
